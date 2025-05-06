@@ -1,6 +1,8 @@
 # msel
 Multivariate and multinomial sample selection and endogenous switching models with multiple outcomes Use msel (switchSelection) With (In) R Software
 
+https://www.youtube.com/watch?v=Y8wdZ-bOg6Q
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
